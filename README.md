@@ -11,4 +11,4 @@ Bem-vindos ao meu GitHub, aqui tem muitos projetos finalizados e em desenvolvime
 
 - 🤓 Estudando Frequentemente;
 - 📒 Aprendendo JavaScript e Node.JS;
-- 👨‍🎓 Cursando Ensino Médio com Técnico em Desenvolvimento de Sistemas.
+- 👨‍🎓 Cursando Ensino Médio com Técnico em Desenvolvimento de Sistemas na ETEC Antônio Devisate.
