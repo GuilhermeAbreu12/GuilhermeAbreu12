@@ -16,3 +16,24 @@ Bem-vindos ao meu GitHub, aqui tem muitos projetos finalizados e em desenvolvime
 - 🤓 Estudando Frequentemente;
 - 📒 Aprendendo JavaScript, PHP, SQL e Java (com POO);
 - 👨‍🎓 Cursando Ensino Médio com Técnico em Desenvolvimento de Sistemas na ETEC Antônio Devisate.
+<br>
+<div align="center">
+  <a href="https://github.com/GuilhermeAbreu12">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAbreu12&show_icons=true&theme=holi"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAbreu12&layout=compact&theme=holi"/>
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://instagram.com/guilhermesabreu_10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermesabreu08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-souza-de-abreu-84667432a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
