@@ -24,7 +24,7 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
 ### 📚 Bibliotecas
 <div>
   <img height="30px" src="https://github.com/user-attachments/assets/bbc472cc-c247-41d0-9964-d7c4f9e22ebe" title="Selenium (Python)" alt="ícone do selenium (Python)"/>
-  <img height="30px" src="https://github.com/user-attachments/assets/3b7884d2-e9c9-4c4d-858a-3903b7dc9ec3" title="Selenium (Python)" alt="ícone do selenium (Python)"/>
+  <img height="30px" src="https://github.com/user-attachments/assets/f372e893-5c48-4811-ad64-11121d207c7b" title="Pyautogui (Python)" alt="ícone do Pyautogui (Python)"/>
 </div>
 
 ### 🛠️ Ferramentas
