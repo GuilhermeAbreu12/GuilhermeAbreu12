@@ -10,14 +10,14 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   <img height="30px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="ícone do Python"/>
   <img height="30px" width="50px" src="https://github.com/user-attachments/assets/88e803bd-167f-422e-aad1-58bbe85fc0ac" title="Java" alt="ícone do Java"/>
   <img height="30px" width="50px" src="https://github.com/user-attachments/assets/11b7988b-0435-4142-b193-e18bf54ae322" title="PHP" alt="ícone do PHP"/>
-  <img height="30px" width="50px" src="https://github.com/user-attachments/assets/eead1add-acb2-4bd3-b0ac-d2d69230a4a1" title="SQL" alt="ícone do SQL"/>
+  <img height="50px" width="80px" src="https://github.com/user-attachments/assets/eead1add-acb2-4bd3-b0ac-d2d69230a4a1" title="SQL" alt="ícone do SQL"/>
 </div>
 
 ### ⚙️ Frameworks
 <div>
   <img height="30px" width="50px" src="https://github.com/user-attachments/assets/0ff6d368-6b20-4e7e-b983-5a05428f0725" title="Bootstrap (HTML e CSS)" alt="ícone do Bootstrap"/>
   <img height="30px" width="50px" src="https://github.com/user-attachments/assets/8ac1a07b-1e23-4fbb-8a64-3bf918e4220b" title="Flutter (Dart)" alt="ícone do Flutter"/>
-  <img height="30px" width="50px" src="https://github.com/user-attachments/assets/ede5421f-8289-409a-8ae6-44e6f1fe6ece" title="Swing (Java)" alt="ícone do Swing"/>
+  <img height="30px" width="30px" src="https://github.com/user-attachments/assets/ede5421f-8289-409a-8ae6-44e6f1fe6ece" title="Swing (Java)" alt="ícone do Swing"/>
   <!--<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="ícone do Node.JS"/> -->
 </div>
 
