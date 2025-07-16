@@ -1,19 +1,50 @@
-## OLÁ PROGRAMADORES! 👋
-Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desenvolvimento, estou sempre criando novos projetos e aprimorando os antigos.
+<div align="center">
+  
+# OLÁ, PROGRAMADORES! 👋
+
+Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desenvolvimento, <br> estou sempre criando novos projetos e aprimorando os antigos.
+</div>
+<br><br>
+  
+- 🤓 Estudando frequentemente;  
+- 📒 Aprendendo JavaScript, PHP, SQL e Java (com POO);  
+- 👨‍🎓 Cursando Ensino Médio com Técnico em Desenvolvimento de Sistemas na ETEC Antônio Devisate.  
 <br><br>
 
-## 🔤 Linguagens e Tecnologias
 
-### Domínio
+## 💻 Linguagens e Tecnologias
 
-<div style="display:inline_block"> 
-  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="ícone do HTML"/>
-  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="ícone do CSS"/>
-  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="ícone do Python"/>
+<div style="display:inline_block" align="left">
+  
+  ### Domínio
+  <img title="HTML" alt="Ícone do HTML" src="https://img.shields.io/badge/-HTML-f16529?style=flat-square&logo=html5&logoColor=white" />
+  <img title="CSS" alt="Ícone do CSS" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css&logoColor=white" />
+  <img title="Python" alt="Ícone do Python" src="https://img.shields.io/badge/-Python-3a76a7?style=flat-square&logo=python&logoColor=white" />
 </div>
 
-### Intermediário
+<div style="display:inline_block" align="right">
+
+  ### Intermediário
+  <img title="JavaScript" alt="Ícone do JavaScript" src="https://img.shields.io/badge/-JavaScript-faca1b?style=flat-square&logo=javascript&logoColor=grey" />
+  <img title="MySQL" alt="Ícone do MYSQL" src="https://img.shields.io/badge/-MySQL-0b6495?style=flat-square&logo=mysql&logoColor=white" />
+  <img title="Flask (Python)" alt="Ícone do Flask (Python)" src="https://img.shields.io/badge/-Flask(Python)-d9d9d9?style=flat-square&logo=flask&logoColor=black" />
+  <img title="Selenium (Python)" alt="Ícone do Selenium" src="https://img.shields.io/badge/-Selenium(Python)-78909c?style=flat-square&logo=selenium&logoColor=white" />
+  <img title="Pyautogui (Python)" alt="Ícone do Pyautogui" src="https://img.shields.io/badge/-Pyautogui(Python)-ffca1d?style=flat-square&logo=pyautogui&logoColor=white" />
+  <img title="Git" alt="Ícone do Git" src="https://img.shields.io/badge/-Git-f4511e?style=flat-square&logo=git&logoColor=white" />
+  <img title="Figma" alt="Ícone do Figma" src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma&logoColor=white" />
+  <img title="Bootstrap" alt="Ícone do Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7c4dff?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img title="Java" alt="Ícone do Java" src="https://img.shields.io/badge/-Java-087194?style=flat-square&logo=java&logoColor=white" />
+</div>
+
+### Básico
 <div style="display:inline_block">
+  <img title="PHP" alt="Ícone do PHP" src="https://img.shields.io/badge/-PHP-7f45b0?style=flat-square&logo=php&logoColor=white" />
+  <img title="Flutter (Dart)" alt="Ícone do Flutter (Dart)" src="https://img.shields.io/badge/-Flutter(Dart)-3484c5?style=flat-square&logo=flutter&logoColor=white" />
+  <img title="Swing (Java)" alt="Ícone do Swing (Java)" src="https://img.shields.io/badge/-Swing(Java)-ee4c4b?style=flat-square&logo=swing&logoColor=white" />
+</div>
+  <!--
+  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="ícone do CSS"/>
+  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="ícone do Python"/>
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/85bdac77-ad11-4212-8b0d-76fecc61f3df" title="JavaScript" alt="ícone do JavaScript"/>
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/eead1add-acb2-4bd3-b0ac-d2d69230a4a1" title="SQL" alt="ícone do SQL"/>
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/003dfbc2-3569-4b38-ae3c-25cad938b435" title="Flask (Python)" alt="ícone do Flask"/>
@@ -23,27 +54,21 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/4ce215d4-a016-46c1-b0b2-cbb198987d09" title="Figma" alt="ícone do Figma"/>
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/0ff6d368-6b20-4e7e-b983-5a05428f0725" title="Bootstrap (HTML e CSS)" alt="ícone do Bootstrap"/>
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/88e803bd-167f-422e-aad1-58bbe85fc0ac" title="Java" alt="ícone do Java"/>
-</div>
-
-### Básico
-<div style="display:inline_block">
-  <!--<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="ícone do Node.JS"/> -->
+  # <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="ícone do Node.JS"/>
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/11b7988b-0435-4142-b193-e18bf54ae322" title="PHP" alt="ícone do PHP"/>
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/8ac1a07b-1e23-4fbb-8a64-3bf918e4220b" title="Flutter (Dart)" alt="ícone do Flutter"/>
   <img height="40" width="40" align="center" src="https://github.com/user-attachments/assets/fe31ea1a-e47f-44d6-b849-a2983e0db211" title="Swing (Java)" alt="ícone do Swing"/>
-</div>
+-->
 <br><br>
 
-<h4>Legenda:</h4>
+> [!NOTE]
+> * **Domínio:** tenho confiança e consigo usar no que preciso;<br>
+> * **Intermediário:** consigo usar no que preciso, mas sei que há muito mais a aprender;<br>
+> * **Básico:** sei o básico para fazer um projeto iniciante, mas não estudei a fundo ainda.
 
-* **Domínio:** tenho confiança e consigo usar no que preciso;<br>
-* **Intermediário:** consigo usar no que preciso, mas sei que há muito mais a aprender;<br>
-* **Básico:** sei o básico para fazer um projeto iniciante, mas não estudei a fundo ainda.
 <br><br>
-- 🤓 Estudando Frequentemente;<br>
-- 📒 Aprendendo JavaScript, PHP, SQL e Java (com POO);<br>
-- 👨‍🎓 Cursando Ensino Médio com Técnico em Desenvolvimento de Sistemas na ETEC Antônio Devisate.<br>
-<br><br>
+
+## 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/GuilhermeAbreu12">
@@ -52,6 +77,8 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   </a>
 </div>
 <br>
+
+## ☎️ Contatos
 <div align="center">
   <a href="mailto:guilhermesabreu08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -65,4 +92,7 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeAbreu12/GuilhermeAbreu12/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-<a href="https://erahistorica.netlify.app/" title="Era Histórica" target="_blank">Meu projeto favorito</a>
+<div align="center">
+  
+[Meu projeto favorito](https://erahistorica.netlify.app/)
+</div>
