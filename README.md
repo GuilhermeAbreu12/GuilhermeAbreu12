@@ -13,34 +13,66 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
 
 
 ## 💻 Linguagens e Tecnologias
-
+<div align="center">
+  Clique na tecnologia para ver um projeto
+</div>
 <div style="display:inline_block" align="left">
   
   ### Domínio
-  <img title="HTML" alt="Ícone do HTML" src="https://img.shields.io/badge/-HTML-f16529?style=flat-square&logo=html5&logoColor=white" />
-  <img title="CSS" alt="Ícone do CSS" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css&logoColor=white" />
-  <img title="Python" alt="Ícone do Python" src="https://img.shields.io/badge/-Python-3a76a7?style=flat-square&logo=python&logoColor=white" />
+  <a href="https://github.com/GuilhermeAbreu12/Era-Historica" target="_blank">
+    <img title="HTML" alt="Ícone do HTML" src="https://img.shields.io/badge/-HTML-f16529?style=flat-square&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuilhermeAbreu12/Flor_cultura" target="_blank">
+    <img title="CSS" alt="Ícone do CSS" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuilhermeAbreu12/Python-Mundo2-Exercicios" target="_blank">
+    <img title="Python" alt="Ícone do Python" src="https://img.shields.io/badge/-Python-3a76a7?style=flat-square&logo=python&logoColor=white" />
+  </a>
 </div>
 
 <div style="display:inline_block" align="right">
 
   ### Intermediário
-  <img title="JavaScript" alt="Ícone do JavaScript" src="https://img.shields.io/badge/-JavaScript-faca1b?style=flat-square&logo=javascript&logoColor=grey" />
-  <img title="MySQL" alt="Ícone do MYSQL" src="https://img.shields.io/badge/-MySQL-0b6495?style=flat-square&logo=mysql&logoColor=white" />
-  <img title="Flask (Python)" alt="Ícone do Flask (Python)" src="https://img.shields.io/badge/-Flask(Python)-d9d9d9?style=flat-square&logo=flask&logoColor=black" />
-  <img title="Selenium (Python)" alt="Ícone do Selenium" src="https://img.shields.io/badge/-Selenium(Python)-78909c?style=flat-square&logo=selenium&logoColor=white" />
-  <img title="Pyautogui (Python)" alt="Ícone do Pyautogui" src="https://img.shields.io/badge/-Pyautogui(Python)-ffca1d?style=flat-square&logo=pyautogui&logoColor=white" />
-  <img title="Git" alt="Ícone do Git" src="https://img.shields.io/badge/-Git-f4511e?style=flat-square&logo=git&logoColor=white" />
-  <img title="Figma" alt="Ícone do Figma" src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma&logoColor=white" />
-  <img title="Bootstrap" alt="Ícone do Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7c4dff?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img title="Java" alt="Ícone do Java" src="https://img.shields.io/badge/-Java-087194?style=flat-square&logo=java&logoColor=white" />
+  <a href="https://github.com/GuilhermeAbreu12/Era-Historica" target="_blank">
+    <img title="JavaScript" alt="Ícone do JavaScript" src="https://img.shields.io/badge/-JavaScript-faca1b?style=flat-square&logo=javascript&logoColor=grey" />
+  </a>
+  <a href="https://github.com/GuilhermeAbreu12/Petshop-SQL" target="_blank">
+    <img title="MySQL" alt="Ícone do MYSQL" src="https://img.shields.io/badge/-MySQL-0b6495?style=flat-square&logo=mysql&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img title="Flask (Python)" alt="Ícone do Flask (Python)" src="https://img.shields.io/badge/-Flask(Python)-d9d9d9?style=flat-square&logo=flask&logoColor=black" />
+  </a>
+  <a href="#" target="_blank">
+    <img title="Selenium (Python)" alt="Ícone do Selenium" src="https://img.shields.io/badge/-Selenium(Python)-78909c?style=flat-square&logo=selenium&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img title="Pyautogui (Python)" alt="Ícone do Pyautogui" src="https://img.shields.io/badge/-Pyautogui(Python)-ffca1d?style=flat-square&logo=pyautogui&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img title="Git" alt="Ícone do Git" src="https://img.shields.io/badge/-Git-f4511e?style=flat-square&logo=git&logoColor=white" /> 
+  </a>
+  <a href="https://www.figma.com/design/X0pdwwdxddhWK155ku21qb/FakePinterest---design?node-id=0-1" target="_blank">
+    <img title="Figma" alt="Ícone do Figma" src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuilhermeAbreu12/Abreu-Sports" target="_blank">
+    <img title="Bootstrap" alt="Ícone do Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7c4dff?style=flat-square&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuilhermeAbreu12/Exercicios-Java" target="_blank">
+    <img title="Java" alt="Ícone do Java" src="https://img.shields.io/badge/-Java-087194?style=flat-square&logo=java&logoColor=white" />
+  </a>
 </div>
 
 ### Básico
 <div style="display:inline_block">
-  <img title="PHP" alt="Ícone do PHP" src="https://img.shields.io/badge/-PHP-7f45b0?style=flat-square&logo=php&logoColor=white" />
-  <img title="Flutter (Dart)" alt="Ícone do Flutter (Dart)" src="https://img.shields.io/badge/-Flutter(Dart)-3484c5?style=flat-square&logo=flutter&logoColor=white" />
-  <img title="Swing (Java)" alt="Ícone do Swing (Java)" src="https://img.shields.io/badge/-Swing(Java)-ee4c4b?style=flat-square&logo=swing&logoColor=white" />
+  <a href="https://github.com/GuilhermeAbreu12/Abreu-Sports" target="_blank">
+    <img title="PHP" alt="Ícone do PHP" src="https://img.shields.io/badge/-PHP-7f45b0?style=flat-square&logo=php&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuilhermeAbreu12/services_app" target="_blank">
+    <img title="Flutter (Dart)" alt="Ícone do Flutter (Dart)" src="https://img.shields.io/badge/-Flutter(Dart)-3484c5?style=flat-square&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuilhermeAbreu12/JavaSwingQuiz" target="_blank">
+    <img title="Swing (Java)" alt="Ícone do Swing (Java)" src="https://img.shields.io/badge/-Swing(Java)-ee4c4b?style=flat-square&logo=swing&logoColor=white" />
+  </a>  
 </div>
   <!--
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="ícone do CSS"/>
