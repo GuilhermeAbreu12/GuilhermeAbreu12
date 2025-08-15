@@ -51,7 +51,7 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   <a href="#" target="_blank">
     <img title="Git" alt="Ícone do Git" src="https://img.shields.io/badge/-Git-f4511e?style=flat-square&logo=git&logoColor=white" /> 
   </a>
-  <a href="https://www.figma.com/design/X0pdwwdxddhWK155ku21qb/FakePinterest---design?node-id=0-1" target="_blank">
+  <a href="#" target="_blank">
     <img title="Figma" alt="Ícone do Figma" src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma&logoColor=white" />
   </a>
   <a href="https://github.com/GuilhermeAbreu12/Abreu-Sports" target="_blank">
