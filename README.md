@@ -14,7 +14,7 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
 
 ## 💻 Linguagens e Tecnologias
 <div align="center">
-  Clique na tecnologia para ver um projeto
+  Clique + 'ctrl' na tecnologia para ver um projeto
 </div>
 <div style="display:inline_block" align="left">
   
