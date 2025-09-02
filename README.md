@@ -7,7 +7,7 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
 <br><br>
   
 - 🤓 Estudando frequentemente;  
-- 📒 Aprendendo JavaScript, PHP, SQL e Java (com POO);  
+- 📒 Aprendendo JavaScript, SQL, Java (com POO) e agora REACT.js;  
 - 👨‍🎓 Cursando Ensino Médio com Técnico em Desenvolvimento de Sistemas na ETEC Antônio Devisate.  
 <br><br>
 
