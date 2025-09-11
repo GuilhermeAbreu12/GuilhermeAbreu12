@@ -57,6 +57,9 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   <a href="https://github.com/GuilhermeAbreu12/Abreu-Sports" target="_blank">
     <img title="Bootstrap" alt="Ícone do Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7c4dff?style=flat-square&logo=bootstrap&logoColor=white" />
   </a>
+  <a href="#" target="_blank">
+    <img title="Tailwind" alt="Ícone do Tailwind" src="https://img.shields.io/badge/-Tailwind%20CSS-0C1119?style=flat-square&logo=tailwindcss&logoColor=blue" />
+  </a>
   <a href="https://github.com/GuilhermeAbreu12/Exercicios-Java" target="_blank">
     <img title="Java" alt="Ícone do Java" src="https://img.shields.io/badge/-Java-087194?style=flat-square&logo=java&logoColor=white" />
   </a>
