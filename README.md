@@ -73,9 +73,6 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   <a href="https://github.com/GuilhermeAbreu12/services_app" target="_blank">
     <img title="Flutter (Dart)" alt="Ícone do Flutter (Dart)" src="https://img.shields.io/badge/-Flutter(Dart)-3484c5?style=flat-square&logo=flutter&logoColor=white" />
   </a>
-  <a href="https://github.com/GuilhermeAbreu12/JavaSwingQuiz" target="_blank">
-    <img title="Swing (Java)" alt="Ícone do Swing (Java)" src="https://img.shields.io/badge/-Swing(Java)-ee4c4b?style=flat-square&logo=swing&logoColor=white" />
-  </a>  
 </div>
   <!--
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="ícone do CSS"/>
