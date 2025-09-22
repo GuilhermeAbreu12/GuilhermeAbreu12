@@ -7,7 +7,7 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
 <br><br>
   
 - 🤓 Estudando frequentemente;  
-- 📒 Aprendendo JavaScript, SQL, Java (com POO);  
+- 📒 Aprendendo JavaScript, SQL e conexão do frontend ao banco de dados com PHP;  
 - 👨‍🎓 Cursando Ensino Médio com Técnico em Desenvolvimento de Sistemas na ETEC Antônio Devisate.  
 <br><br>
 
