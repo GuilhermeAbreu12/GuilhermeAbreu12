@@ -39,6 +39,9 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   <a href="https://github.com/GuilhermeAbreu12/Petshop-SQL" target="_blank">
     <img title="MySQL" alt="Ícone do MYSQL" src="https://img.shields.io/badge/-MySQL-0b6495?style=flat-square&logo=mysql&logoColor=white" />
   </a>
+  <a href="https://github.com/GuilhermeAbreu12/Petshop-SQL" target="_blank">
+    <img title="React.JS" alt="Ícone do React" src="https://img.shields.io/badge/-React.Js-010414?style=flat-square&logo=react&logoColor=00D5FB" />
+  </a>
   <a href="#" target="_blank">
     <img title="Flask (Python)" alt="Ícone do Flask (Python)" src="https://img.shields.io/badge/-Flask(Python)-d9d9d9?style=flat-square&logo=flask&logoColor=black" />
   </a>
