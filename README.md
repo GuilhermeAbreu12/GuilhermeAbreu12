@@ -25,7 +25,7 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
   <a href="https://github.com/GuilhermeAbreu12/Flor_cultura" target="_blank">
     <img title="CSS" alt="Ícone do CSS" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css&logoColor=white" />
   </a>
-  <a href="https://github.com/GuilhermeAbreu12/Python-Mundo2-Exercicios" target="_blank">
+  <a href="https://github.com/GuilhermeAbreu12/Catalogador-Patos-CoderChallenge" target="_blank">
     <img title="Python" alt="Ícone do Python" src="https://img.shields.io/badge/-Python-3a76a7?style=flat-square&logo=python&logoColor=white" />
   </a>
 </div>
