@@ -115,8 +115,9 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
 
 ## ☎️ Contatos
 <div align="center">
-  <a href="mailto:guilhermesabreu08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+  
+  [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:guilhermesabreu08@gmail.com)
   <a href="https://www.linkedin.com/in/guilherme-souza-de-abreu-84667432a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
