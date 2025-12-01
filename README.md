@@ -102,7 +102,8 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
 > * **Básico:** sei o básico para fazer um projeto iniciante, mas não estudei a fundo ainda.
 
 <br><br>
-
+<!--
+Github stats está dando erro
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -110,7 +111,7 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAbreu12&show_icons=true&theme=holi"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAbreu12&layout=compact&theme=holi"/>
   </a>
-</div>
+</div>-->
 <br>
 
 ## ☎️ Contatos
