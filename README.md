@@ -6,9 +6,10 @@ Bem-vindos ao meu perfil GitHub, aqui há muitos projetos finalizados e em desen
 </div>
 <br><br>
   
-- 🤓 Estudando frequentemente;  
+- 🤓 Estudando frequentemente, concluindo um TCC em React;  
 - 📒 Aprendendo JavaScript, React.js e conexão do frontend ao banco de dados com supabase;  
-- 👨‍🎓 Cursando Ensino Médio com Técnico em Desenvolvimento de Sistemas na ETEC Antônio Devisate.  
+- 👨‍🎓 Concluindo o Ensino Médio com Técnico em Desenvolvimento de Sistemas na ETEC Antônio Devisate.
+- ⭐ Prestes a iniciar uma graduação em ADS na Universidade de Marília (UNIMAR) em 2027.  
 <br><br>
 
 
